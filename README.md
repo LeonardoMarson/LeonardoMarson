@@ -1,28 +1,5 @@
-### Olá! Eu sou o Leonardo Marson ⚡
+### Olá, meu nome é Leonardo Marson e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou empenhado em aprender e desenvolver minhas habilidades em programação e análise de sistemas, buscando sempre aprimorar meu conhecimento em tecnologias emergentes.
 
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    
-
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Leo-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Leo-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Leo-Android" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />         <img align="center" alt="Leo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
-
-##
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Androidstudio" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
-  <img align="center" alt="Leo-intellij" height=70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-  <img align="center" alt="Leo-vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
-  <img align="center" alt="Leo-git" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  </div>
-  
 ##
   
 <div> 
