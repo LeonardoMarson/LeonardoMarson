@@ -1,4 +1,4 @@
-### Olá, meu nome é Leonardo Marson e sou estudante de Análise e Desenvolvimento de Sistemas. Atualmente, estou empenhado em aprender e desenvolver minhas habilidades em programação e análise de sistemas, buscando sempre aprimorar meu conhecimento em tecnologias emergentes.
+### Olá, meu nome é Leonardo Marson e sou estudante de Análise e Desenvolvimento de Sistemas! Atualmente, estou empenhado em aprender e desenvolver minhas habilidades em programação e análise de sistemas, buscando sempre aprimorar meu conhecimento em tecnologias emergentes.
 
 ##
   
